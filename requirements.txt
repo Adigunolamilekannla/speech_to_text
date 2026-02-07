@@ -1,0 +1,5 @@
+gradio==4.44.0
+groq==0.9.0
+python-dotenv==1.0.1
+numpy==1.26.4
+soundfile==0.12.1
